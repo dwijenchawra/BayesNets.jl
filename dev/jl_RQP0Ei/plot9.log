@@ -1,7 +1,7 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.5.2)  2 MAY 2021 23:39
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.5.2)  2 MAY 2021 23:43
  system commands enabled.
-**./jl_iOW5sx/plot8.tex
-(./jl_iOW5sx/plot8.tex
+**./jl_RQP0Ei/plot9.tex
+(./jl_RQP0Ei/plot9.tex
 LaTeX2e <2020-02-02> patch level 2
 [\directlua]:1: module 'luaotfload-main' not found:
 	no field package.preload['luaotfload-main']
