@@ -1,7 +1,7 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.5.2)  2 MAY 2021 23:52
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.5.2)  3 MAY 2021 00:03
  system commands enabled.
-**./jl_ZMOXBI/plot7.tex
-(./jl_ZMOXBI/plot7.tex
+**./jl_XyXxbj/plot10.tex
+(./jl_XyXxbj/plot10.tex
 LaTeX2e <2020-02-02> patch level 2
 [\directlua]:1: module 'luaotfload-main' not found:
 	no field package.preload['luaotfload-main']
@@ -85,5 +85,5 @@ Here is how much of LuaTeX's memory you used:
    avail lists: 2:18,3:2,4:1,5:1,7:2,9:3
  17961 multiletter control sequences out of 65536+600000
  25 fonts using 3168567 bytes
- 36i,0n,60p,216b,68s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 36i,0n,60p,217b,68s stack positions out of 5000i,500n,10000p,200000b,100000s
 !  ==> Fatal error occurred, no output PDF file produced!
